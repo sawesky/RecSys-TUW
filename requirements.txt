@@ -1,0 +1,8 @@
+transformers==4.41.2
+tensorflow==2.15.0
+torch==2.3.0
+scikit-learn==1.2.2
+polars==0.20.8
+jupyter==1.0.0
+pyarrow==14.0.2
+pandas==2.0.3
